@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/MyProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/MyProject/Content/PunchComponent.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/MyProject/Content/Characters/Mannequins/Animations/PunchingLeft_UE.uasset",
+				"C:/Users/FantoMIStranniK/Documents/Unreal Projects/Pickup-System/MyProject/Content/Characters/Mannequins/Animations/PunchingRight_UE.uasset"
+			]
+		}
+	]
+}
